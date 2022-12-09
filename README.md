@@ -12,4 +12,5 @@ manage the hostel data efficiently and effectively.
   system and give solutions to them. (using of triggers)
   - To show the basic blueprint of the architectural design.
 * [Report](Report.pdf) contains all the information about the project.
-* **SQL** has been used to writing the code. All the code snippets are attached in the [report](Report.pdf) itself
+* [Tables](tables.cpp) have been created in this file and [Hashing](hahsing.cpp) has been done in this file.
+* **SQL** and **C++** has been used to writing the code. All the code snippets are attached in the [report](Report.pdf) itself
