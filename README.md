@@ -12,4 +12,4 @@ manage the hostel data efficiently and effectively.
   system and give solutions to them. (using of triggers)
   - To show the basic blueprint of the architectural design.
 * [Report](DBMS REPORT.pdf) contains all the information about the project.
-* **SQL** has been used to writing the code. All the code snippets are attached in the [report](DBMS REPORT.pdf) itself
+* **SQL** has been used to writing the code. All the code snippets are attached in the [report](DBMS REPORT.pdf) itself.
